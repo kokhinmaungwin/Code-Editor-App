@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/Code-Editor-App/",   // IMPORTANT for GitHub Pages
+  base: "/Code-Editor-App/",
 });
